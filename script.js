@@ -36,4 +36,4 @@ function draw() {
 }
 
 
-container.setAttribute("style", "border: 1px black solid;");
+container.setAttribute("style", "border: 4px black solid;");
